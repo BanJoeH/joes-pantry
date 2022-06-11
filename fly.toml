@@ -1,4 +1,4 @@
-app = "joes-pantry-9544"
+app = "joes-pantry"
 kill_signal = "SIGINT"
 kill_timeout = 5
 processes = [ ]
