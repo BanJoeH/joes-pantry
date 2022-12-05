@@ -69,3 +69,10 @@ export function useUser(): User {
 export function validateEmail(email: unknown): email is string {
   return typeof email === "string" && email.length > 3 && email.includes("@");
 }
+
+export function isKeyInObject<T extends string | number>(
+  key: T,
+  object: { [key: string | number]: unknown } | undefined
+): object is { [key in T]: unknown } {
+  return !!object && object[key] !== undefined;
+};

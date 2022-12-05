@@ -1,3 +1,24 @@
+# Joes-pantry - plans
+
+- [] store recipes
+  - components
+    - [] name
+    - [] description
+    - [] ingredients
+    - [] instructions
+    - [] servings
+  - [] have in recipes list
+  - [] have in shopping list
+  - [] edit/delete
+  - [] share recipes
+- [] 
+- [] 
+- [] 
+- [] 
+- [] 
+- [] 
+- [] 
+
 # Remix Blues Stack
 
 ![The Remix Blues Stack](https://repository-images.githubusercontent.com/461012689/37d5bd8b-fa9c-4ab0-893c-f0a199d5012d)
